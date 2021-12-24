@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Gue Kok Ganteng
 date: 2021-12-24T14:41:15.909Z
 description: Info tentang kegantengan gue
-featuredpost: false
+featuredpost: true
 featuredimage: /img/blog-index.jpg
 ---
 ```html
